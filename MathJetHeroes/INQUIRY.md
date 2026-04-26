@@ -3,10 +3,7 @@
 Thank you for using this app.
 If you have any questions, issues, or feedback, please contact us using the form below.
 
-👉 **Support Form (Google Form)**  
-If you have any questions, issues, or feedback, please contact us using the form below.
-
-👉 Support Form (Inquiry Form)  
+👉 Support Form
 https://forms.gle/kvevP4Zkivu4Utzp8
 
 *You may submit the form in English or in your native language.*
